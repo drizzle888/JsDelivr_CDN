@@ -232,8 +232,7 @@ body,html,#a1 {
 .t_cen .font_zd {background: #ff1500;padding:1px 5px;margin-right: 5px;border-radius: 2px;}
 .t_cen .font_ld {background: #0080FF;padding:1px 5px;margin-right: 5px;border-radius: 2px;}
 .t_cen .font_hd {background: #FE2EF7;padding:1px 5px;margin-right: 5px;border-radius: 2px;}
-.t_close{position: absolute; z-index:99990; top:8px; right:15px; background:url(https://cdn.jsdelivr.net/gh/drizzle888/JsDelivr_CDN
-/static/img/close.png) no-repeat;background-size:contain;width:14px;height:14px}
+.t_close{position: absolute; z-index:99990; top:8px; right:15px; background:url(https://cdn.jsdelivr.net/gh/drizzle888/JsDelivr_CDN/static/img/close.png) no-repeat;background-size:contain;width:14px;height:14px}
 @media (max-width:760px){
 .logo{width: 60px;height:30px;right:3px;top:3px;}
 .panel {width: 80%;}
